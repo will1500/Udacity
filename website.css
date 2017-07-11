@@ -1,0 +1,45 @@
+                                  
+h1,h2,h3,h4,h5,h6{
+ color:green;
+ font-size:40px;
+ border-bottom: 2px solid blue;
+}
+body{
+	background-color: black;
+}
+.brain{
+
+	float: right;
+	
+}
+.violet{
+	color:purple;
+}
+.orange{
+	color:orange;
+}
+li{
+	color:orange;
+}
+.notes1{
+  color:green;
+}
+.notes2{
+  color:green
+}
+.notes3{
+  color:green
+}
+.notes4{
+  color:green
+}
+.nanodegree{
+  
+  color:green
+}
+.runners{
+  color:green
+}
+.cssvideo{
+  color: blue
+}

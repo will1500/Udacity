@@ -1,8 +1,10 @@
                                   
 h1,h2,h3,h4,h5,h6{
  color:green;
- font-size:40px;
- border-bottom: 2px solid blue;
+ border:1px solid red;
+
+ border-bottom: 4px dotted blue;
+
 }
 body{
 	background-color: black;
@@ -10,7 +12,7 @@ body{
 .brain{
 
 	float: right;
-	
+	height: 150px;
 }
 .violet{
 	color:purple;
@@ -21,25 +23,12 @@ body{
 li{
 	color:orange;
 }
-.notes1{
-  color:green;
+.notes{
+  color:lime;
+  padding-bottom: 10px;
+
 }
-.notes2{
-  color:green
+a{
+	color:yellowgreen;
 }
-.notes3{
-  color:green
-}
-.notes4{
-  color:green
-}
-.nanodegree{
-  
-  color:green
-}
-.runners{
-  color:green
-}
-.cssvideo{
-  color: blue
-}
+

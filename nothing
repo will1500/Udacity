@@ -50,11 +50,7 @@ def game1():
 			print 'wrong'
 
 if respond==choices[0]:
-	game1()
-if respond==choices[1]:
-	print 'medium'
-if respond==choices[2]:
-	print 'hard'
+	h
 
 	
 
